@@ -92,3 +92,4 @@ If you find [LibCity](https://github.com/LibCity/Bigscity-LibCity) useful, pleas
 }
 ```
 Link to the results g drive: https://drive.google.com/drive/folders/1KLIZIKl9TenZZJmi95rbuspwm_IV740q?usp=sharing
+Link to set up raw file drive: https://drive.google.com/drive/folders/1ghgYePmKcVoUzpBcTMHplFmYfDI8rwQi?usp=sharing
